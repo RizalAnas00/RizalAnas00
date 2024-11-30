@@ -1,5 +1,5 @@
-👋 Hallo, I’m Rizal
-Old wise philosophy said "Collaboration makes everything perfect", all i want to say is hire me.
+-👋 Hallo, I’m Rizal
+- Old wise philosophy said "Collaboration makes everything perfect", all i want to say is hire me.
 Thanks.
 
 <!---
