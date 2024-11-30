@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Rizal
-- 👀 I’m interested in Computer Science (Obviously)
-- 🌱 I’m currently learning Web, Software, and Game Development
+👋 Hallo, I’m Rizal
+Old wise philosophy said "Collaboration makes everything perfect", all i want to say is hire me.
+Thanks.
 
 <!---
 RizalAnas00/RizalAnas00 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
