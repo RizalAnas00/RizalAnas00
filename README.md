@@ -5,18 +5,15 @@ Thanks!
 
 ---
 
-<h2 align="center">🚀 Tech Stack & Skills</h2>
+<h2 align="center">Tech Stack & Skills</h2>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=nodejs,typescript,adonis,express,react,mysql,laravel,postgres,postman,python,java,cs,cpp,docker" />
 </p>
 
-<h2 align="center">📚 Currently Studying</h2>
+<h2 align="center">Currently Studying</h2>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=go,react,redis,python,godot" />
 </p>
-
----
-![Rizal's GitHub stats](https://github-readme-stats.vercel.app/api?username=RizalAnas00&show_icons=true)
 
 ---
 
