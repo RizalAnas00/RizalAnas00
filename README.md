@@ -13,7 +13,7 @@ Thanks!
 
 <h2 align="center">Development Tools</h2>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=vscode,visualstudio,postman,git,github,laragon,netbeans,godot,expo" />
+  <img src="https://skillicons.dev/icons?i=vscode,visualstudio,postman,git,github,godot,expo" />
 </p>
 
 <h2 align="center">Currently Studying</h2>
