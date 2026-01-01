@@ -7,7 +7,7 @@ Thanks!
 
 <h2 align="center">Tech Stack & Skills</h2>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,typescript,adonis,express,mysql,laravel,postgres,postman,java,python,cs,cpp,docker" />
+  <img src="https://skillicons.dev/icons?i=nodejs,typescript,adonis,express,mysql,laravel,postgres,postman,java,python,cs,cpp,docker"/>
 </p>
 
 <h2 align="center">Currently Studying</h2>
