@@ -21,15 +21,6 @@ Thanks!
   <img src="https://skillicons.dev/icons?i=go,react,redis" />
 </p>
 
-<a href="https://github.com/RizalAnas00">
-  <img height="200" align="center"
-       src="https://github-readme-stats.vercel.app/api?username=RizalAnas00&show_icons=true&theme=tokyonight" />
-</a>
-<a href="https://github.com/RizalAnas00">
-  <img height="200" align="center"
-       src="https://github-readme-stats.vercel.app/api/top-langs/?username=RizalAnas00&layout=compact&theme=tokyonight&card_width=320" />
-</a>
-
 ---
 
 <p align="center">Thanks for visiting my profile!</p>
