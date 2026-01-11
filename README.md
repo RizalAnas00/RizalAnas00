@@ -21,6 +21,10 @@ Thanks!
   <img src="https://skillicons.dev/icons?i=go,react,redis" />
 </p>
 
+<p align="center">
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RizalAnas00&layout=compact&theme=tokyonight)](https://github.com/RizalAnas00)
+</p>
+
 ---
 
 <p align="center">Thanks for visiting my profile!</p>
